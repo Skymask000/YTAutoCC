@@ -1,8 +1,14 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Auto CC",
+  "name": "YouTube Auto-Generated CC",
   "version": "0.1.0",
-  "description": "Auto-enables auto-generated closed captions on every YouTube video.",
+  "description": "Automatically turns on YouTube's auto-generated closed captions in the video's original language on every video.",
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
   "content_scripts": [
     {
       "matches": ["*://www.youtube.com/*"],
