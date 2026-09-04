@@ -41,8 +41,14 @@ async function writeSettings(settings) {
 
 function resolveInitialLocale(uiLang) {
   if (!uiLang) return 'en';
+  // Direct match first (LANGUAGES keys are BCP-47 canonical like "zh-CN")
+  if (LANGUAGES[uiLang]) return uiLang;
+  // Case-insensitive full match (some platforms may return lowercased forms)
   const lower = uiLang.toLowerCase();
-  if (LANGUAGES[lower]) return lower;
+  for (const key of Object.keys(LANGUAGES)) {
+    if (key.toLowerCase() === lower) return key;
+  }
+  // 2-letter prefix fallback (e.g. "en-US" → "en")
   const prefix = lower.split('-')[0];
   if (LANGUAGES[prefix]) return prefix;
   return 'en';
