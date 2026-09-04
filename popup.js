@@ -71,11 +71,23 @@ function writeOne(key, value) {
   tryArea(chrome.storage.sync, () => tryArea(chrome.storage.local, () => {}));
 }
 
+function applyI18n() {
+  document.querySelectorAll('[data-i18n]').forEach((el) => {
+    const key = el.dataset.i18n;
+    const msg = chrome.i18n.getMessage(key);
+    if (msg) {
+      if (el.tagName === 'TITLE') document.title = msg;
+      else el.textContent = msg;
+    }
+  });
+}
+
 async function init() {
-  // i18n bootstrap (Task 6 will replace hardcoded fallbacks with chrome.i18n.getMessage).
+  applyI18n();
+
   const i18n = {
-    useOriginal: 'Use original language',
-    noCaptions: 'No captions',
+    useOriginal: chrome.i18n.getMessage('useOriginal') || 'Use original language',
+    noCaptions: chrome.i18n.getMessage('noCaptions') || 'No captions',
   };
 
   const settings = await readSettings();
