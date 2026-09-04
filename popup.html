@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+  <title data-i18n="extName">YouTube Auto-Generated CC</title>
+</head>
+<body>
+  <header>
+    <img src="icons/32.png" alt="" width="24" height="24">
+    <h1 data-i18n="extName">YouTube Auto-Generated CC</h1>
+  </header>
+
+  <section>
+    <label for="my-local-language" data-i18n="myLocalLang">My local language</label>
+    <select id="my-local-language"></select>
+  </section>
+
+  <section>
+    <label for="local-action" data-i18n="forLocalVideos">For videos in my local language</label>
+    <select id="local-action"></select>
+  </section>
+
+  <section>
+    <label for="default-action" data-i18n="forOtherVideos">For all other videos</label>
+    <select id="default-action"></select>
+  </section>
+
+  <footer>
+    <p data-i18n="applyNote">Changes apply immediately.</p>
+  </footer>
+
+  <script src="languages.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
