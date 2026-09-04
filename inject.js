@@ -52,18 +52,39 @@
     return null;
   };
 
+  const isLang = (t, code) => (t.languageCode || '').toLowerCase().split('-')[0] === code;
+
   const run = async () => {
     if (!isWatchPage()) return;
     const player = await waitForPlayer();
     if (!player) return;
     const tracks = await getTracklist(player);
     if (!tracks) return;
-    const asrTrack = tracks.find((t) => t.kind === 'asr');
-    if (!asrTrack) return;
+    const asrTracks = tracks.filter((t) => t.kind === 'asr');
+    if (!asrTracks.length) return;
+
+    const roAsr = asrTracks.find((t) => isLang(t, 'ro'));
+    const enAsr = asrTracks.find((t) => isLang(t, 'en'));
+    const primaryAsr = asrTracks[0];
+    const originalIsRomanian = isLang(primaryAsr, 'ro');
+
+    let track;
+    let translationLanguage = null;
+    if (originalIsRomanian) {
+      track = roAsr || primaryAsr;
+    } else if (enAsr) {
+      track = enAsr;
+    } else {
+      track = primaryAsr;
+      translationLanguage = { languageCode: 'en' };
+    }
+
     try {
-      player.setOption('captions', 'track', asrTrack);
-      try { player.setOption('captions', 'translationLanguage', null); } catch (_) {}
-      console.log('[YT Auto CC] Enabled:', asrTrack.languageName || asrTrack.languageCode);
+      player.setOption('captions', 'track', track);
+      try { player.setOption('captions', 'translationLanguage', translationLanguage); } catch (_) {}
+      const label = track.languageName || track.languageCode;
+      const suffix = translationLanguage ? ` → ${translationLanguage.languageCode}` : '';
+      console.log('[YT Auto CC] Enabled:', label + suffix);
     } catch (e) {
       console.log('[YT Auto CC] setOption failed:', e);
     }
