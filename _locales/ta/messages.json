@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube இன் தானாக உருவாக்கப்பட்ட தலைப்புகளை ஒவ்வொரு மொழிக்கும் கட்டமைக்கக்கூடிய விதிகளுடன் தானாகவே இயக்குகிறது. இலவசம், கண்காணிப்பு இல்லை.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "எனது உள்ளூர் மொழி",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "எனது உள்ளூர் மொழியில் உள்ள வீடியோக்களுக்கு",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "மற்ற அனைத்து வீடியோக்களுக்கும்",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "மூல மொழியைப் பயன்படுத்தவும்",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "தலைப்புகள் இல்லை",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "மாற்றங்கள் உடனடியாகப் பொருந்தும்.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "தானாகக் கண்டறியப்பட்டது",
+    "description": "Hint text next to the detected local language."
+  }
+}

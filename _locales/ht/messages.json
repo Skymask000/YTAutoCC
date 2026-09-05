@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Aktive otomatikman soutit YouTube kreye otomatikman yo avèk règ ki ka konfigire pou chak lang. Gratis, san tras.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Lang lokal mwen",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Pou videyo nan lang lokal mwen",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Pou tout lòt videyo yo",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Itilize lang orijinal la",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Pa gen soutit",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Chanjman yo aplike imedyatman.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "detekte otomatikman",
+    "description": "Hint text next to the detected local language."
+  }
+}

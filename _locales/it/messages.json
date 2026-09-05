@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Attiva automaticamente i sottotitoli generati automaticamente da YouTube con regole configurabili per lingua. Gratuito, senza tracciamento.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "La mia lingua locale",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Per i video nella mia lingua locale",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Per tutti gli altri video",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Usa la lingua originale",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Nessun sottotitolo",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Le modifiche si applicano immediatamente.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "rilevato automaticamente",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "E vakabulabulataka na kena tauyavutaki na ivakamacala vakavolatabu ni YouTube ena veilawa e rawa ni vakayagataki me vaka na vosa. Sega ni saumi, sega ni bau qara.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Noqu vosa vakavanua",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Ni vidio ena noqu vosa vakavanua",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Ni veika kece tale ga na vidio",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Vakayagataka na vosa taumada",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Sega ni ivakamacala",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Na veisau era vakabulabulataki sara ga.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "kunei vakavolatabu",
+    "description": "Hint text next to the detected local language."
+  }
+}

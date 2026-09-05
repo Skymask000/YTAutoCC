@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Kveikir sjálfkrafa á sjálfvirkt búnum skjátextum YouTube með stillanlegum reglum eftir tungumáli. Ókeypis, engin mæling.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mitt staðbundna tungumál",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Fyrir myndbönd á mínu staðbundna tungumáli",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Fyrir öll önnur myndbönd",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Nota upprunalegt tungumál",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Engir skjátextar",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Breytingar taka gildi samstundis.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "sjálfkrafa greint",
+    "description": "Hint text next to the detected local language."
+  }
+}

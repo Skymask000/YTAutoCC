@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "E dumelela ka go itiragalela dihlaka tša YouTube tšeo di dirwago ka go itiragalela ka melao yeo e ka fetošwago go ya ka polelo. Ke ya mahala, ga go na go latelwa.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Polelo ya gaešo ya selegae",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Bakeng sa dibidio tša polelo ya gaešo ya selegae",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Bakeng sa dibidio tše dingwe ka moka",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Diriša polelo ya mathomo",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Ga go na dihlaka",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Diphetogo di šoma gona bjale.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "e hweditšwe ka go itiragalela",
+    "description": "Hint text next to the detected local language."
+  }
+}

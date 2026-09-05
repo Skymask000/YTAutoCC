@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Ivumela ngokuzenzakalelayo amazwibela e-YouTube akhiqizwa ngokuzenzakalelayo ngemithetho engalungiswa ngolimi ngalunye. Mahhala, akukho ukulandelela.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Ulimi lwami lwendabuko",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Kumavidiyo ngolimi lwami lwendabuko",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Kuwo wonke amanye amavidiyo",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Sebenzisa ulimi lokuqala",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Awekho amazwibela",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Izinguquko zisebenza ngokushesha.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "kutholwe ngokuzenzakalelayo",
+    "description": "Hint text next to the detected local language."
+  }
+}

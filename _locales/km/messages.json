@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "បើកដោយស្វ័យប្រវត្តិនូវចំណងជើងដែលបង្កើតដោយស្វ័យប្រវត្តិរបស់ YouTube ជាមួយនឹងច្បាប់ដែលអាចកំណត់រចនាសម្ព័ន្ធតាមភាសានីមួយៗ។ ឥតគិតថ្លៃ គ្មានការតាមដាន។",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "ភាសាមូលដ្ឋានរបស់ខ្ញុំ",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "សម្រាប់វីដេអូជាភាសាមូលដ្ឋានរបស់ខ្ញុំ",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "សម្រាប់វីដេអូផ្សេងទៀតទាំងអស់",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "ប្រើភាសាដើម",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "គ្មានចំណងជើង",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ការផ្លាស់ប្តូរអនុវត្តភ្លាមៗ។",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ស្វែងរកឃើញដោយស្វ័យប្រវត្តិ",
+    "description": "Hint text next to the detected local language."
+  }
+}

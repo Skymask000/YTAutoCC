@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Ó ń mú kí àwọn àkọlé YouTube tí a ṣe láìfọwọ́rọ́ṣiṣẹ́ ṣiṣẹ́ láìfọwọ́rọ́ṣiṣẹ́ pẹ̀lú àwọn òfin tí a lè ṣàtúnṣe fún èdè kọ̀ọ̀kan. Ọfẹ́, kò sí ìṣàwárí.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Èdè agbègbè mi",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Fún àwọn fídíò tí ó wà ní èdè agbègbè mi",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Fún gbogbo àwọn fídíò yòókù",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Lo èdè ìpilẹ̀ṣẹ̀",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Kò sí àkọlé",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Àwọn ìyípadà máa ń wúlò lẹ́sẹ̀kẹsẹ̀.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "a rí i láìfọwọ́rọ́ṣiṣẹ́",
+    "description": "Hint text next to the detected local language."
+  }
+}

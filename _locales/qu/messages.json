@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube-pa kikinmanta rurasqan subtítulosninta kikinmanta activanchik, sapa rimaymanta kamachikuykunawan. Yanqa, mana qhawariyniyoq.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Ñoqaq llaqtay rimayniy",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Ñoqaq llaqtay rimaypi videokunapaq",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Wakin llapan videokunapaq",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Ñawpaq rimayta servichikuy",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Mana subtitulosniyoq",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Tikrasqakuna kunallanmanta rurakun.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "kikinmanta tarisqa",
+    "description": "Hint text next to the detected local language."
+  }
+}

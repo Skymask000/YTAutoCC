@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube-এর স্বয়ংক্রিয়ভাবে তৈরি ক্যাপশন প্রতি-ভাষা কনফিগারযোগ্য নিয়ম সহ স্বয়ংক্রিয়ভাবে সক্ষম করে। বিনামূল্যে, কোনো ট্র্যাকিং নেই।",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "আমার স্থানীয় ভাষা",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "আমার স্থানীয় ভাষার ভিডিওর জন্য",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "অন্য সব ভিডিওর জন্য",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "মূল ভাষা ব্যবহার করুন",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "কোনো ক্যাপশন নেই",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "পরিবর্তনগুলো সাথে সাথে প্রযোজ্য হয়।",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "স্বয়ংক্রিয়ভাবে সনাক্ত করা হয়েছে",
+    "description": "Hint text next to the detected local language."
+  }
+}

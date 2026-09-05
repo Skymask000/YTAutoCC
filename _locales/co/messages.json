@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Attivighja automaticamente i sottutituli auto-generati di YouTube cù regule cunfigurabile per lingua. Gratuitu, senza seguitu.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "A mo lingua lucale",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Per i video in a mo lingua lucale",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Per tutti l'altri video",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Impiegà a lingua originale",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Nisun sottutitulu",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "I cambiamenti s'applicanu subitu.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "rilevatu automaticamente",
+    "description": "Hint text next to the detected local language."
+  }
+}

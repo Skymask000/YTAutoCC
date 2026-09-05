@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Cuiridh e an gnìomh gu fèin-obrachail fo-thiotalan fèin-ghinte YouTube le riaghailtean a ghabhas rèiteachadh a rèir cànain. An-asgaidh, gun lorgadh.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mo chànan ionadail",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Airson bhidiothan nam chànan ionadail",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Airson gach bhidio eile",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Cleachd an cànan tùsail",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Gun fho-thiotalan",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Bidh atharrachaidhean an sàs sa bhad.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "air a lorg gu fèin-obrachail",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube އިން އޮޓަމެޓިކުން އުފައްދާ ކެޕްޝަންތައް، ބަހަކަށް ފެތޭ ގޮތަށް ބަދަލުކުރެވޭ ގަވާއިދުތަކާއެކު އޮޓަމެޓިކުން ފަށައިދެއެވެ. ހިލޭ، ޓްރެކްކުރުމެއް ނެތި.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "މަގޭ ލޯކަލް ބަސް",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "މަގޭ ލޯކަލް ބަހުގެ ވީޑިއޯތަކަށް",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "އެހެން ހުރިހާ ވީޑިއޯއަކަށް",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "އަސްލު ބަސް ބޭނުންކުރޭ",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ކެޕްޝަން ނެތް",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ބަދަލުތައް ވަގުތުން ފެށޭނެއެވެ.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "އޮޓަމެޓިކުން ދެނެގަނެވިފައި",
+    "description": "Hint text next to the detected local language."
+  }
+}

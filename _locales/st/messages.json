@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "E kgontsha ka boitshepho di-caption tsa YouTube tse hlahisoang ka boitshepho ka melao e ka fetolwang bakeng sa puo ka nngwe. Mahala, ha ho latellwa.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Puo ya heso ya lehae",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Bakeng sa divideo tsa puo ya heso ya lehae",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Bakeng sa divideo tse ding tsohle",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Sebedisa puo ya mantlha",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Ha ho na di-caption",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Diphetoho di a sebetsa hang-hang.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "e fumanwe ka boitshepho",
+    "description": "Hint text next to the detected local language."
+  }
+}

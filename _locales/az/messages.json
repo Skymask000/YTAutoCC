@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube-un avtomatik yaradılmış altyazılarını hər dil üçün fərdiləşdirilə bilən qaydalarla avtomatik aktivləşdirir. Pulsuz, izləmə yoxdur.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mənim yerli dilim",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Yerli dilimdəki videolar üçün",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Digər bütün videolar üçün",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Orijinal dili istifadə et",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Altyazı yoxdur",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Dəyişikliklər dərhal tətbiq olunur.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "avtomatik aşkarlanıb",
+    "description": "Hint text next to the detected local language."
+  }
+}

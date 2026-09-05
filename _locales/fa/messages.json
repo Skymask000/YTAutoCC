@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "زیرنویس‌های تولید شده خودکار یوتیوب را با قوانین قابل تنظیم برای هر زبان به‌طور خودکار فعال می‌کند. رایگان، بدون ردیابی.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "زبان محلی من",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "برای ویدیوهایی به زبان محلی من",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "برای همه ویدیوهای دیگر",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "استفاده از زبان اصلی",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "بدون زیرنویس",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "تغییرات بلافاصله اعمال می‌شوند.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "تشخیص خودکار داده شد",
+    "description": "Hint text next to the detected local language."
+  }
+}

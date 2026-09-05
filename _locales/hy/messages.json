@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Ինքնաշխատ միացնում է YouTube-ի ինքնաշխատ ստեղծված ենթագրերը՝ լեզվային կարգավորելի կանոններով։ Անվճար, առանց հետևման։",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Իմ տեղական լեզուն",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Իմ տեղական լեզվով տեսանյութերի համար",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Բոլոր մյուս տեսանյութերի համար",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Օգտագործել բնօրինակ լեզուն",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Առանց ենթագրերի",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Փոփոխություններն ուժի մեջ են մտնում անմիջապես։",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ինքնաշխատ հայտնաբերված",
+    "description": "Hint text next to the detected local language."
+  }
+}

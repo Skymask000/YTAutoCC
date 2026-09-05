@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Yana kunna kalmomin rubutu na atomatik na YouTube ta atomatik tare da ƙa'idodin da za a iya daidaitawa ga kowace harshe. Kyauta, babu bin diddigi.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Yaren gida na",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Don bidiyo a yaren gida na",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Don duk sauran bidiyo",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Yi amfani da asalin harshe",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Babu rubutun kalmomi",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Canje-canje suna aiki nan take.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "an gano ta atomatik",
+    "description": "Hint text next to the detected local language."
+  }
+}

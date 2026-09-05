@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "מפעיל אוטומטית את הכתוביות שנוצרות אוטומטית ב-YouTube עם כללים הניתנים להתאמה לכל שפה. חינם, ללא מעקב.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "השפה המקומית שלי",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "לסרטונים בשפה המקומית שלי",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "לכל שאר הסרטונים",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "השתמש בשפת המקור",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ללא כתוביות",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "השינויים חלים באופן מיידי.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "זוהה אוטומטית",
+    "description": "Hint text next to the detected local language."
+  }
+}

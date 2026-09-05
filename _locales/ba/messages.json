@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube-тың автоматик рәүештә тыуҙырылған субтитрҙарын телгә ярашлы көйләнеүсән ҡағиҙәләр менән автоматик рәүештә тоҡандыра. Түләүһеҙ, күҙәтеү юҡ.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Минең тыуған телем",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Минең тыуған телемдәге видеолар өсөн",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Башҡа бөтә видеолар өсөн",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Төп телде ҡулланырға",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Субтитрҙарһыҙ",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Үҙгәрештәр шунда уҡ ҡулланыла.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "автоматик рәүештә асыҡланған",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Ativa automaticamente as legendas geradas automaticamente do YouTube com regras configuráveis por idioma. Gratuito, sem rastreamento.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Meu idioma local",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Para vídeos no meu idioma local",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Para todos os outros vídeos",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Usar idioma original",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Sem legendas",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "As alterações são aplicadas imediatamente.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "detectado automaticamente",
+    "description": "Hint text next to the detected local language."
+  }
+}

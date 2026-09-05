@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube యొక్క ఆటోమేటిక్‌గా రూపొందించిన క్యాప్షన్‌లను భాషను బట్టి కాన్ఫిగర్ చేయగల నియమాలతో స్వయంచాలకంగా ఎనేబుల్ చేస్తుంది. ఉచితం, ట్రాకింగ్ లేదు.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "నా స్థానిక భాష",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "నా స్థానిక భాషలోని వీడియోల కోసం",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "అన్ని ఇతర వీడియోల కోసం",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "అసలు భాషను ఉపయోగించండి",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "క్యాప్షన్‌లు లేవు",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "మార్పులు వెంటనే వర్తిస్తాయి.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "స్వయంచాలకంగా గుర్తించబడింది",
+    "description": "Hint text next to the detected local language."
+  }
+}

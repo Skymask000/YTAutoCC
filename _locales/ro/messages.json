@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Activează automat subtitrările auto-generate de YouTube cu reguli configurabile per limbă. Gratuit, fără urmărire.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Limba mea locală",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Pentru videoclipuri în limba mea locală",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Pentru toate celelalte videoclipuri",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Folosește limba originală",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Fără subtitrări",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Modificările se aplică imediat.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "detectat automat",
+    "description": "Hint text next to the detected local language."
+  }
+}
