@@ -62,4 +62,4 @@ No test runner — the extension's behavior is verified via manual smoke tests i
 
 ## License
 
-Not specified yet.
+MIT — see [LICENSE](LICENSE).
