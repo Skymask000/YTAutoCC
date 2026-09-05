@@ -23,8 +23,6 @@ Your "local language" is auto-detected from your browser's UI language on first 
 
 **From the Chrome Web Store:** (link forthcoming)
 
-**Edge Add-ons:** https://microsoftedge.microsoft.com/addons/detail/95e8f20f-e527-481a-82cc-46bd7fc45054
-
 **Load unpacked for development:**
 
 1. Clone this repo:
