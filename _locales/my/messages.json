@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube ၏ အလိုအလျောက် ထုတ်လုပ်ထားသော စာတန်းများကို ဘာသာစကားအလိုက် ချိန်ညှိနိုင်သော စည်းမျဉ်းများဖြင့် အလိုအလျောက် ဖွင့်ပေးသည်။ အခမဲ့၊ ခြေရာခံခြင်းမရှိပါ။",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "ကျွန်ုပ်၏ ဒေသိယဘာသာစကား",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "ကျွန်ုပ်၏ ဒေသိယဘာသာစကားရှိ ဗီဒီယိုများအတွက်",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "အခြား ဗီဒီယိုအားလုံးအတွက်",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "မူရင်းဘာသာစကားကို သုံးရန်",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "စာတန်းများ မရှိပါ",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ပြောင်းလဲမှုများကို ချက်ချင်း အသက်ဝင်စေသည်။",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "အလိုအလျောက် ရှာဖွေတွေ့ရှိထားသည်",
+    "description": "Hint text next to the detected local language."
+  }
+}

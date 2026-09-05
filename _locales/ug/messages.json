@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube نىڭ ئاپتوماتىك ھاسىل قىلىنغان ھالقىلىق سۆزلىرىنى ھەر بىر تىل بويىچە سەپلىگىلى بولىدىغان قائىدىلەر بىلەن ئاپتوماتىك قوزغىتىدۇ. بىكار، ئىز قوغلاش يوق.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "مېنىڭ يەرلىك تىلىم",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "مېنىڭ يەرلىك تىلىمدىكى ۋىدېئولار ئۈچۈن",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "باشقا بارلىق ۋىدېئولار ئۈچۈن",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "ئەسلى تىلنى ئىشلىتىش",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ھالقىلىق سۆز يوق",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ئۆزگىرىشلەر دەرھال قوللىنىلىدۇ.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ئاپتوماتىك بايقالدى",
+    "description": "Hint text next to the detected local language."
+  }
+}

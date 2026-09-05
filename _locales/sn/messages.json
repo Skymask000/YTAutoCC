@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Inogona kubatidza zvinyorwa zvinozviitira zvoga zveYouTube nemitemo inogona kugadziriswa pamutauro wega wega. Mahara, hapana kutevera.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mutauro wangu wemuno",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Kwemavhidhiyo emutauro wangu wemuno",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Kwemamwe mavhidhiyo ese",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Shandisa mutauro wepakutanga",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Hapana zvinyorwa",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Shanduko dzinoshanda ipapo ipapo.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "yawanikwa yoga",
+    "description": "Hint text next to the detected local language."
+  }
+}

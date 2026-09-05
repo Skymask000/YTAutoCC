@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Sacara otomatis ngaktifkeun teks anu didamel otomatis ku YouTube kalayan aturan anu tiasa dikonfigurasi per basa. Gratis, teu aya palacakan.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Basa lokal abdi",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Kanggo pidéo dina basa lokal abdi",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Kanggo sadaya pidéo sanésna",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Anggo basa aslina",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Tanpa téks",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Parobahan langsung dilarapkeun.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "kadeteksi otomatis",
+    "description": "Hint text next to the detected local language."
+  }
+}

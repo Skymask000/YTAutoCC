@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Automaticky zapíná automaticky generované titulky YouTube s pravidly nastavitelnými pro každý jazyk. Zdarma, bez sledování.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Můj místní jazyk",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Pro videa v mém místním jazyce",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Pro všechna ostatní videa",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Použít původní jazyk",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Bez titulků",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Změny se projeví okamžitě.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "automaticky rozpoznáno",
+    "description": "Hint text next to the detected local language."
+  }
+}

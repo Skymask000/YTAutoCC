@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "언어별로 설정 가능한 규칙으로 YouTube의 자동 생성 자막을 자동으로 활성화합니다. 무료, 추적 없음.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "내 지역 언어",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "내 지역 언어로 된 동영상의 경우",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "그 외 모든 동영상의 경우",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "원본 언어 사용",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "자막 없음",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "변경 사항은 즉시 적용됩니다.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "자동 감지됨",
+    "description": "Hint text next to the detected local language."
+  }
+}

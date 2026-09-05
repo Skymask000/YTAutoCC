@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Automatycznie włącza automatycznie generowane napisy YouTube z regułami konfigurowalnymi dla każdego języka. Bezpłatne, bez śledzenia.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mój lokalny język",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Dla filmów w moim lokalnym języku",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Dla wszystkich innych filmów",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Użyj języka oryginalnego",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Bez napisów",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Zmiany są stosowane natychmiast.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "wykryto automatycznie",
+    "description": "Hint text next to the detected local language."
+  }
+}

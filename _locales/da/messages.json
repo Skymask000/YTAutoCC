@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Aktiverer automatisk YouTubes automatisk genererede undertekster med konfigurerbare regler pr. sprog. Gratis, ingen sporing.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mit lokale sprog",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Til videoer på mit lokale sprog",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Til alle andre videoer",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Brug originalsprog",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Ingen undertekster",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Ændringer træder i kraft med det samme.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "automatisk registreret",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Субтитрҳои худкор эҷодшудаи YouTube-ро бо қоидаҳои барои ҳар забон танзимшаванда ба таври худкор фаъол мекунад. Ройгон, бе пайгирӣ.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Забони маҳаллии ман",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Барои видеоҳо бо забони маҳаллии ман",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Барои ҳамаи видеоҳои дигар",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Истифодаи забони аслӣ",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Бе субтитр",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Тағйирот фавран татбиқ мешаванд.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ба таври худкор муайян шуд",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Автоматски ги овозможува автоматски генерираните титлови на YouTube со правила што можат да се конфигурираат по јазик. Бесплатно, без следење.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Мојот локален јазик",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "За видеа на мојот локален јазик",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "За сите други видеа",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Користи го оригиналниот јазик",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Без титлови",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Промените се применуваат веднаш.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "автоматски откриено",
+    "description": "Hint text next to the detected local language."
+  }
+}

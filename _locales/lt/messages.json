@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Automatiškai įjungia „YouTube“ automatiškai sukurtus subtitrus su kiekvienai kalbai konfigūruojamomis taisyklėmis. Nemokama, be sekimo.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mano vietinė kalba",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Vaizdo įrašams mano vietine kalba",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Visiems kitiems vaizdo įrašams",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Naudoti originalo kalbą",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Be subtitrų",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Pakeitimai pritaikomi iš karto.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "automatiškai aptikta",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Aktiveer outomaties YouTube se outomaties gegenereerde onderskrifte met opstelbare reëls per taal. Gratis, sonder opsporing.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "My plaaslike taal",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Vir video's in my plaaslike taal",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Vir alle ander video's",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Gebruik oorspronklike taal",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Geen onderskrifte nie",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Veranderinge word onmiddellik toegepas.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "outomaties bespeur",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "自动为 YouTube 的自动生成字幕启用可按语言配置的规则。免费，不追踪。",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "我的本地语言",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "对于本地语言的视频",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "对于所有其他视频",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "使用原始语言",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "不显示字幕",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "更改会立即生效。",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "自动检测",
+    "description": "Hint text next to the detected local language."
+  }
+}

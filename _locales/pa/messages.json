@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube ਦੇ ਆਪਣੇ-ਆਪ ਬਣੇ ਕੈਪਸ਼ਨਾਂ ਨੂੰ ਹਰ ਭਾਸ਼ਾ ਲਈ ਕੌਂਫਿਗਰ ਕਰਨਯੋਗ ਨਿਯਮਾਂ ਨਾਲ ਆਪਣੇ-ਆਪ ਸਮਰੱਥ ਬਣਾਉਂਦਾ ਹੈ। ਮੁਫ਼ਤ, ਕੋਈ ਟ੍ਰੈਕਿੰਗ ਨਹੀਂ।",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "ਮੇਰੀ ਸਥਾਨਕ ਭਾਸ਼ਾ",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "ਮੇਰੀ ਸਥਾਨਕ ਭਾਸ਼ਾ ਦੀਆਂ ਵੀਡੀਓਜ਼ ਲਈ",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "ਬਾਕੀ ਸਾਰੀਆਂ ਵੀਡੀਓਜ਼ ਲਈ",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "ਮੂਲ ਭਾਸ਼ਾ ਵਰਤੋ",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ਕੋਈ ਕੈਪਸ਼ਨ ਨਹੀਂ",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ਬਦਲਾਅ ਤੁਰੰਤ ਲਾਗੂ ਹੁੰਦੇ ਹਨ।",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ਆਪਣੇ-ਆਪ ਪਤਾ ਲਗਾਇਆ ਗਿਆ",
+    "description": "Hint text next to the detected local language."
+  }
+}

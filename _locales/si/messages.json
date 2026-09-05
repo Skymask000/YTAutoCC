@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTube හි ස්වයංක්‍රීයව ජනනය කරන ලද ශීර්ෂ පාඨ, භාෂාව අනුව වින්‍යාස කළ හැකි නීති සමඟ ස්වයංක්‍රීයව සක්‍රීය කරයි. නොමිලේ, ලුහුබැඳීමක් නැත.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "මගේ ප්‍රාදේශීය භාෂාව",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "මගේ ප්‍රාදේශීය භාෂාවේ වීඩියෝ සඳහා",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "අනෙකුත් සියලුම වීඩියෝ සඳහා",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "මුල් භාෂාව භාවිතා කරන්න",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ශීර්ෂ පාඨ නැත",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "වෙනස්කම් වහාම ක්‍රියාත්මක වේ.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ස්වයංක්‍රීයව හඳුනාගන්නා ලදී",
+    "description": "Hint text next to the detected local language."
+  }
+}

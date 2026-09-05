@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Aŭtomate ebligas la aŭtomate generitajn subtekstojn de YouTube kun agordeblaj reguloj po lingvo. Senpaga, sen spurado.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mia loka lingvo",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Por videoj en mia loka lingvo",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Por ĉiuj aliaj videoj",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Uzi la originalan lingvon",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Neniuj subtekstoj",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Ŝanĝoj validas tuj.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "aŭtomate detektita",
+    "description": "Hint text next to the detected local language."
+  }
+}

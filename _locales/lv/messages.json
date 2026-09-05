@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Automātiski iespējo YouTube automātiski ģenerētos subtitrus ar konfigurējamiem noteikumiem katrai valodai. Bezmaksas, bez izsekošanas.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Mana vietējā valoda",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Video manā vietējā valodā",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Visiem citiem video",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Izmantot oriģinālvalodu",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Bez subtitriem",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Izmaiņas stājas spēkā nekavējoties.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "automātiski noteikts",
+    "description": "Hint text next to the detected local language."
+  }
+}

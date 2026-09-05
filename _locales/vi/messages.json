@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Tự động bật phụ đề tự động tạo của YouTube với các quy tắc có thể định cấu hình theo từng ngôn ngữ. Miễn phí, không theo dõi.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Ngôn ngữ địa phương của tôi",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Đối với video bằng ngôn ngữ địa phương của tôi",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Đối với tất cả video khác",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Dùng ngôn ngữ gốc",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Không có phụ đề",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Các thay đổi được áp dụng ngay lập tức.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "tự động phát hiện",
+    "description": "Hint text next to the detected local language."
+  }
+}

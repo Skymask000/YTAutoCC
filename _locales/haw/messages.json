@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Hoʻā ʻia ka hana pono o nā palapala huaʻōlelo hana ʻakomi o YouTube me nā lula hiki ke hoʻoponopono no kēlā me kēia ʻōlelo. Manuahi, ʻaʻohe nānā ʻana.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Koʻu ʻōlelo kūloko",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "No nā wikiō ma koʻu ʻōlelo kūloko",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "No nā wikiō ʻē aʻe a pau",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "E hoʻohana i ka ʻōlelo mua",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "ʻAʻohe palapala huaʻōlelo",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Hoʻohana koke ʻia nā loli.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ʻike ʻakomi ʻia",
+    "description": "Hint text next to the detected local language."
+  }
+}

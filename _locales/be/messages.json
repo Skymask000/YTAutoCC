@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Аўтаматычна ўключае аўтаматычна створаныя субтытры YouTube з наладжвальнымі правіламі для кожнай мовы. Бясплатна, без адсочвання.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Мая мясцовая мова",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Для відэа на маёй мясцовай мове",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Для ўсіх іншых відэа",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Выкарыстоўваць арыгінальную мову",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Без субтытраў",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Змены ўжываюцца адразу.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "вызначана аўтаматычна",
+    "description": "Hint text next to the detected local language."
+  }
+}

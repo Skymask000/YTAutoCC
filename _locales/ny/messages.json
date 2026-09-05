@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Imayambitsa yokha ma kaputeni a YouTube opangidwa yokha ndi malamulo osinthika pa chilankhulo chilichonse. Zaulere, popanda kutsatira.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Chinenero changa chakomweko",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Za makanema mu chinenero changa chakomweko",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Za makanema ena onse",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Gwiritsani ntchito chinenero choyambirira",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Popanda makaputeni",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Zosintha zimagwira ntchito nthawi yomweyo.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "zapezeka zokha",
+    "description": "Hint text next to the detected local language."
+  }
+}

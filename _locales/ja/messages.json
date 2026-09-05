@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "YouTubeの自動生成字幕を、言語ごとに設定可能なルールで自動的に有効にします。無料、追跡なし。",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "自分の現地語",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "現地語の動画の場合",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "その他すべての動画の場合",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "元の言語を使用",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "字幕なし",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "変更はすぐに適用されます。",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "自動検出",
+    "description": "Hint text next to the detected local language."
+  }
+}

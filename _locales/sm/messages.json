@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "E fa'agaoioia otometi ai fa'amatalaga a le YouTube o lo'o gaosia otometi fa'atasi ma tulafono e mafai ona fa'atonutonuina i gagana ta'itasi. E leai se totogi, e leai se su'esu'ega.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Lo'u gagana fa'apitonu'u",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Mo vitiō i lo'u gagana fa'apitonu'u",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Mo isi vitiō uma",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Fa'aoga le gagana muamua",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "E leai ni fa'amatalaga",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "E fa'amalosia suiga i le taimi lava lea.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "na maua otometi",
+    "description": "Hint text next to the detected local language."
+  }
+}

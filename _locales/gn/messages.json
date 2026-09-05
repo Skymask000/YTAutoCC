@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Omyandy ijehegui YouTube subtítulo ijeheguiete ojejapóva, oĩva reglakuéra ombosako'ivéva peteĩ-teĩ ñe'ẽme g̃uarã. Rejapo reikuaave'ỹre, ndaipóri ñemuha.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Che ñe'ẽ tetãygua",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Vídeo che ñe'ẽ tetãyguápe oĩvape g̃uarã",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Opa ambue vídeo-pe g̃uarã",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Eiporu ñe'ẽ orígina",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Subtítulo'ỹre",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Jehechauka pyahu ojejapo pya'e.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "ojejuhu ijehegui",
+    "description": "Hint text next to the detected local language."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "אַקטיוויזירט אויטאָמאַטיש יוטובס אויטאָמאַטיש געשאַפענע קעפּשאַנס מיט קאָנפֿיגורירבאַרע כּללים לויט שפּראַך. פֿרײַ, קיין נאָכפֿאָלגן.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "מײַן היימישע שפּראַך",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "פֿאַר ווידעאָס אין מײַן היימישער שפּראַך",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "פֿאַר אַלע אַנדערע ווידעאָס",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "נוצן דעם אָריגינעלן שפּראַך",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "קיין קעפּשאַנס נישט",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "ענדערונגען ווערן תּיכּף אָנגעווענדט.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "אויטאָמאַטיש דערקענט",
+    "description": "Hint text next to the detected local language."
+  }
+}

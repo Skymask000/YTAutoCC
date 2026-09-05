@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "YouTube Auto-Generated CC",
+    "description": "Extension name shown in the Chrome UI and popup title."
+  },
+  "extDescription": {
+    "message": "Ihindura mu buryo bwikoresha ubwabwo ibisobanuro YouTube ikora ubwayo hifashishijwe amabwiriza ashobora guhindurwa buri rurimi. Ni ubuntu, nta gukurikirana.",
+    "description": "Extension description shown in the Chrome Web Store and extensions page."
+  },
+  "myLocalLang": {
+    "message": "Ururimi rwanjye rw'aho ntuye",
+    "description": "Label above the local-language identifier dropdown."
+  },
+  "forLocalVideos": {
+    "message": "Ku bijyanye na videwo mu rurimi rwanjye rw'aho ntuye",
+    "description": "Label above the local-action dropdown."
+  },
+  "forOtherVideos": {
+    "message": "Ku bijyanye na videwo zindi zose",
+    "description": "Label above the default-action dropdown."
+  },
+  "useOriginal": {
+    "message": "Koresha ururimi rw'umwimerere",
+    "description": "Action-dropdown item: keep the video's ASR language as-is."
+  },
+  "noCaptions": {
+    "message": "Nta bisobanuro",
+    "description": "Action-dropdown item: do not enable captions."
+  },
+  "applyNote": {
+    "message": "Impinduka zikoreshwa ako kanya.",
+    "description": "Footer note in the popup."
+  },
+  "autoDetected": {
+    "message": "byabonetse mu buryo bwikoresha ubwabwo",
+    "description": "Hint text next to the detected local language."
+  }
+}
