@@ -1,4 +1,14 @@
 // Inject page-world script, then act as storage <-> page bridge.
+
+// inject.js announces itself once its message listener is live. Registered BEFORE
+// the script tag is appended, because the storage read below can finish first and
+// post settings into a page that has no listener yet (postMessage does not buffer).
+window.addEventListener('message', (ev) => {
+  if (ev.source !== window) return;
+  if (!ev.data || ev.data.type !== 'YTAutoCC:ready') return;
+  readSettingsOnce().then(post);
+});
+
 const s = document.createElement('script');
 s.src = chrome.runtime.getURL('inject.js');
 s.onload = () => s.remove();
