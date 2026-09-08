@@ -13,6 +13,8 @@
         && typeof p.getOption === 'function'
         && typeof p.setOption === 'function'
         && typeof p.loadModule === 'function';
+      // Readiness is checked BEFORE the timeout on purpose: rAF is frozen while the
+      // tab is hidden, so a tick can resume minutes later with the player long ready.
       if (ready) { resolve(p); return; }
       if (performance.now() - start > READY_TIMEOUT_MS) { resolve(null); return; }
       requestAnimationFrame(tick);
@@ -83,6 +85,10 @@
     console.log('[YT Auto CC] Settings received:', currentSettings);
     run();
   });
+
+  // Announce readiness — content.js may have finished reading storage before this
+  // script executed, in which case its first post was delivered to nobody.
+  window.postMessage({ type: 'YTAutoCC:ready' }, '*');
 
   document.addEventListener('yt-navigate-finish', run);
   // NOTE: no immediate run() here — settings arrive asynchronously; the settings
