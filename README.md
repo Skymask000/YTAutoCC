@@ -23,7 +23,7 @@ Your "local language" is auto-detected from your browser's UI language on first 
 
 **From the Chrome Web Store:** https://chromewebstore.google.com/detail/youtube-auto-generated-cc/gbnedpgbemhagimebjlodadbhdcdagic
 
-**On mobile (Kiwi Browser on Android, Orion on iOS):** download the latest `YouTube-Auto-Generated-CC-vX.Y.Z.zip` from the [Releases page](https://github.com/Skymask000/YTAutoCC/releases/latest), unzip it, then load the unzipped folder from your browser's extensions page. Mobile Chromium browsers can't install from the Chrome Web Store, so this is the way in.
+The Chrome Web Store is the only supported install route, so every user stays on a current, reviewed version with a working update path. No packaged `.zip` is published on the [Releases page](https://github.com/Skymask000/YTAutoCC/releases) — those notes are a changelog. To run the code directly, load it unpacked as described below.
 
 **Load unpacked for development:**
 
