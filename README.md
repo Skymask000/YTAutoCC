@@ -1,4 +1,4 @@
-# YouTube Auto-Generated CC
+# <img src="icons/128.png" width="36" align="top" alt=""> YouTube Auto-Generated CC
 
 Chrome/Edge extension. Automatically enables YouTube's auto-generated closed captions on every video, using per-language rules you set once.
 
